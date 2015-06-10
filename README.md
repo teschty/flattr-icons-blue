@@ -1,7 +1,7 @@
 Flattr-Blue
 ===========
 
-Flattr-Blue is a slight modification of the Flattr iconset from [NitruxSA/flattr-icons](https://github.com/NitruxSA/flattr-icons) that changes the color of folders from green to blue.
+Flattr-Blue is a slight modification of the Flattr iconset from [NitruxSA/flattr-icons](https://github.com/NitruxSA/flattr-icons) which changes the color of folders from green to blue.
 
 Preview
 =======
@@ -10,7 +10,7 @@ Preview
 Download
 ========
 You can download the icons directly from this repository by executing the following command in your terminal:
-`git clone https://github.com/teschty/flattr-icons-blue.git`
+* `git clone https://github.com/teschty/flattr-icons-blue.git`
 or by using the "Download ZIP" button in GitHub.
 
 Install
