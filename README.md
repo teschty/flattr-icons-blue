@@ -11,6 +11,7 @@ Download
 ========
 You can download the icons directly from this repository by executing the following command in your terminal:
 * `git clone https://github.com/teschty/flattr-icons-blue.git`
+
 or by using the "Download ZIP" button in GitHub.
 
 Install
